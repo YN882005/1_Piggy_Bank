@@ -2,7 +2,7 @@
 
 # Project(1): Pigger Bank
 
-# How to such project:
+# How to Build such project:
 Data structures: Maintain coin quantities in the coinCount array and store available shop inventory inside Toy_t structs.
 
 Core logic: Implement sumCoins() using recursion instead of loops to calculate total value. Find the maximum array index for biggestPile().
